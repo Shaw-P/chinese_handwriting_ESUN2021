@@ -3,6 +3,7 @@
 ## 中文手寫影像辨識
 
 * [比賽官網](https://tbrain.trendmicro.com.tw/Competitions/Details/14)
+* [共用雲端](https://drive.google.com/drive/u/1/folders/0AIbyaBFusIfKUk9PVA)
 
 ### 模型
 * vgg16(pretrained,no-pretrained)
