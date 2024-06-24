@@ -21,7 +21,7 @@
 ### 2. 模型訓練程式碼(`main_code_colab.ipynb`)
 此為模型訓練程式碼，主要以 VGG16 模型為主架構進行模型訓練
 
-## Reference：
+## Reference
 ### 參數設定
 https://www.gushiciku.cn/pl/2B5Z/zh-tw
 ### Data Augumentation
